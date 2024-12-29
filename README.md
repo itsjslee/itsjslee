@@ -1,3 +1,4 @@
+<h1 align="center">Joshua Lee</h1>
 <h3 align="center">Student. Builder. Learner.</h3>
 
 <h3 align="left">Connect with me:</h3>
