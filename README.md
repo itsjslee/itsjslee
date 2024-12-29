@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-[![Languages and Tools](https://skillicons.dev/icons?i=arduino,bash,c,cpp,css,fastapi,figma,git,html,java,js,latex,linux,matlab,nextjs,nodejs,npm,opencv,powershell,py,raspberrypi,react,sklearn,tailwind,ts&theme=dark)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=arduino,bash,c,cpp,css,fastapi,figma,git,html,java,js,latex,linux,matlab,nextjs,nodejs,npm,opencv,powershell,py,raspberrypi,react,sklearn,tailwind,ts&theme=dark)]
 
 [website]: https://mildjosh.com
 [linkedin]: https://linkedin.com/in/mildjosh
