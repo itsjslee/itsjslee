@@ -3,7 +3,7 @@
 ### About me:
 - 〽️ I attend the University of Michigan studying electrical engineering and math
 - 🚀 I am an avionics engineer for the Michigan Aeronautical Science Association [(MASA)](https://masa.engin.umich.edu/)
-- 🔥 I am currently building [Courtline](https://mqueue-six.vercel.app/) (formerly MQueue) as a part of [V1 ichigan's](https://v1michigan.com) product studio cohort
+- 🔥 I am currently building [Courtline](https://mqueue-six.vercel.app/) (formerly MQueue) as a part of [V1 Michigan's](https://v1michigan.com) product studio cohort
 
 ### Languages and Tools:
 
