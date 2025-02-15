@@ -1,4 +1,4 @@
-# Hi there, I'm Joshua! 
+# Hi there, I'm Josh! 
 
 ### About me:
 - 〽️ I attend the University of Michigan studying electrical engineering and math
