@@ -1,9 +1,10 @@
 # Hi there, I'm Josh! 
 
 ### About me:
-- 〽️ I attend the University of Michigan studying electrical engineering and math
-- 🚀 I am an avionics and firmware engineer for the Michigan Aeronautical Science Association [(MASA)](https://masa.engin.umich.edu/)
-- 🔥 I am currently building [Courtline](https://mqueue-six.vercel.app/) (formerly MQueue) as a part of [V1 Michigan's](https://v1michigan.com) product studio cohort
+- I attend the University of Michigan studying electrical engineering and math.
+- I am an avionics and firmware engineer for the Michigan Aeronautical Science Association [(MASA)](https://masa.engin.umich.edu/).
+- I build projects for [V1 Michigan](https://v1michigan.com).
+- I develop apps for the [Kappa Theta Pi Professional Fraternity](https://ktpmichigan.com/).
 
 ### Languages and Tools:
 
