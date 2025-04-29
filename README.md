@@ -4,7 +4,7 @@
 - I attend the University of Michigan studying electrical engineering and math
 - I am an avionics and firmware engineer for the Michigan Aeronautical Science Association [(MASA)](https://masa.engin.umich.edu/)
 - I build projects for [V1 Michigan](https://v1michigan.com)
-- I develop apps for the [Kappa Theta Pi Professional Fraternity](https://ktpmichigan.com/)
+- I develop apps and web tools for the [Kappa Theta Pi Professional Fraternity](https://ktpmichigan.com/)
 
 ### Languages and Tools:
 
