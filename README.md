@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-[![Languages and Tools](https://skillicons.dev/icons?i=arduino,bash,c,cpp,css,dart,fastapi,figma,flutter,git,html,java,js,latex,linux,matlab,nextjs,nodejs,npm,opencv,powershell,py,raspberrypi,react,sklearn,tailwind,ts&theme=dark)](https://mildjosh.com/projects)
+[![Languages and Tools](https://skillicons.dev/icons?i=arduino,bash,c,cpp,css,dart,fastapi,figma,flutter,git,html,java,js,latex,linux,matlab,nextjs,nodejs,npm,opencv,powershell,py,raspberrypi,react,sklearn,tailwind,ts&theme=dark)](https://v0-mildjosh.vercel.app/projects)
 
 [website]: https://mildjosh.com
 [linkedin]: https://linkedin.com/in/mildjosh
