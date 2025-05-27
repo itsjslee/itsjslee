@@ -6,7 +6,7 @@
 - I build projects for [V1 Michigan](https://v1michigan.com)
 - I develop apps and web tools for the [Kappa Theta Pi Professional Fraternity](https://ktpmichigan.com/)
 
-### Languages and Tools:
+### Languages and Tools I use:
 
 [![Languages and Tools](https://skillicons.dev/icons?i=arduino,bash,c,cpp,css,dart,fastapi,figma,firebase,flutter,git,html,java,js,latex,linux,matlab,nextjs,nodejs,notion,npm,obsidian,opencv,powershell,pr,py,raspberrypi,react,sklearn,swift,tailwind,ts&theme=dark)](https://v0-mildjosh.vercel.app/projects)
 
