@@ -22,5 +22,5 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/mildjosh#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mildjosh#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/mildjosh)
-[![website](./img/youtube-dark.svg)](https://youtube.com/mildjosh)
+[![website](./img/youtube-light.svg)](https://youtube.com/@mildjosh#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/@mildjosh#gh-dark-mode-only)
