@@ -19,8 +19,8 @@
 [![website](./img/globe-light.svg)](https://mildjosh.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://mildjosh.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/mildjosh#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mildjosh#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/mildjosh#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/mildjosh#gh-dark-mode-only)
